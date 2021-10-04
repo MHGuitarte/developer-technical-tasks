@@ -10,7 +10,7 @@ The technical tasks for prospective Ultalytics Developers.
 1. Clone the repo
 2. Create a new branch named interview/%YOUR_FULL_NAME%
 3. Follow the instructions inside the folder of the task(s) you were given.
-3. Make a pull request to the upstream repo
+4. Make a pull request to the upstream repo
 
 ## Other Notes
 
@@ -19,3 +19,6 @@ The technical tasks for prospective Ultalytics Developers.
 - All src files should be formatted and not minified
 - You can structure your project however you see fit, remember to prioritise readability
 - Your code should be self documentating where appropiate
+- Remember to make regular commits that can be summarised in less than 20 words
+- Commit messages should be all lowercase
+- Branch names should be kebab case
